@@ -1,0 +1,48 @@
+.container {
+	
+	margin-right: auto;
+	margin-left: auto;
+	height: 500px;
+	width: 800px;
+	font-size: 0;
+}
+
+.box1 {
+	background-color: green;
+	height: 200px;
+	width: 50%;
+	display: inline-block;
+	border: 1px solid black;
+}
+
+.box2 {
+	background-color: blue;
+	height: 200px;
+	width: 50%;
+	display: inline-block;
+	border: 1px solid black;
+}
+
+.box3 {
+	background-color: grey;
+	width: 33.33%;
+	height: 300px;
+	display: inline-block;
+	border: 1px solid black;
+}
+
+.box4 {
+	background-color: black;
+	width: 33.33%;
+	display: inline-block;
+	height: 300px;
+	border: 1px solid black;
+}
+
+.box5 {
+	background-color: gold;
+	display: inline-block;
+	height: 300px;
+	width: 33.33%;
+	border: 1px solid black;
+}
